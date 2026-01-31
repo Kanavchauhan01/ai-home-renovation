@@ -91,7 +91,7 @@ Create an environment variable:
 ```bash
 GOOGLE_API_KEY=your_api_key_here
 
- 3. Add API Key (Streamlit Cloud)
+ Add API Key (Streamlit Cloud)
 In Advanced Settings → Secrets:
 
 GOOGLE_API_KEY = "your_api_key_here"
